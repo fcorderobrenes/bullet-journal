@@ -1,2 +1,2 @@
-# bulllet-journal
+# bullet-journal
 Online version of my bullet journal for practice
